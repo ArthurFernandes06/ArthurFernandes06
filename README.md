@@ -20,12 +20,12 @@ API desenvolvida para o gerenciamento de atletas e centros de treinamento.
 - **Persistência:** SQLite para desenvolvimento ágil.
 - **Funcionalidades:** Cadastro completo de atletas vinculados a seus respectivos locais de treino.
 
-### 2. <a href="https://github.com/ArthurFernandes06/Atletas_FastAPI">Gabaritos-OCI</a>
+### 2. <a href="https://github.com/odavicosta/Gabaritos-OCI">Gabaritos-OCI</a>
 Sistema desenvolvido em equipe para um processo seletivo acdêmico, focado no processamento e leitura de gabaritos.
 - **Tech Stack:** Django (Python) e interface em HTML.
 - **Objetivo:** Automatizar e facilitar a correção de provas através da leitura estruturada de dados.
 
-### 3. <a href="https://github.com/odavicosta/Gabaritos-OCI">Controle de Estudos</a>
+### 3. <a href="https://github.com/ArthurFernandes06/Atletas_FastAPI">Controle de Estudos</a>
 API para organização e monitoramento de cronogramas de aprendizagem.
 - **Tech Stack:** **FastAPI** e **MySQL**.
 - **Destaques:** Autenticação com tokens JWT, hash de senha, modelo relacional no banco de dados com user -> matérias -> tópicos.
