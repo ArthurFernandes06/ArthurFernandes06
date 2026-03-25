@@ -25,7 +25,7 @@ Sistema desenvolvido em equipe para um processo seletivo acdêmico, focado no pr
 - **Tech Stack:** Django (Python) e interface em HTML.
 - **Objetivo:** Automatizar e facilitar a correção de provas através da leitura estruturada de dados.
 
-### 3. <a href="https://github.com/ArthurFernandes06/Atletas_FastAPI">Controle de Estudos</a>
+### 3. <a href="https://github.com/ArthurFernandes06/Controle_Estudos">Controle de Estudos</a>
 API para organização e monitoramento de cronogramas de aprendizagem.
 - **Tech Stack:** **FastAPI** e **MySQL**.
 - **Destaques:** Autenticação com tokens JWT, hash de senha, modelo relacional no banco de dados com user -> matérias -> tópicos.
