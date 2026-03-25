@@ -14,7 +14,7 @@ Me chamo Arthur Rodrigues, estou cursando Ciência da Computação na Universida
 
 ---
 
-### 1. <a href="https://github.com/ArthurFernandes06/Controle_Estudos">Atletas FastAPI</a>
+### 1. <a href="https://github.com/ArthurFernandes06/Atletas_FastAPI">Atletas FastAPI</a>
 API desenvolvida para o gerenciamento de atletas e centros de treinamento.
 - **Destaques:** Uso de **FastAPI**  e **SQLAlchemy** como ORM.
 - **Persistência:** SQLite para desenvolvimento ágil.
