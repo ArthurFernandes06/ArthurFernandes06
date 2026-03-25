@@ -27,7 +27,7 @@ Sistema desenvolvido em equipe para um processo seletivo acdêmico, focado no pr
 
 ### 3. <a href="https://github.com/ArthurFernandes06/Controle_Estudos">Controle de Estudos</a>
 API para organização e monitoramento de cronogramas de aprendizagem.
-- **Tech Stack:** **FastAPI** e **MySQL**.
+- **Tech Stack:** **FastAPI** e **SQLite**.
 - **Destaques:** Autenticação com tokens JWT, hash de senha, modelo relacional no banco de dados com user -> matérias -> tópicos.
 
 ---
