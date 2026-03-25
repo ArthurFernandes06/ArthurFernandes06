@@ -10,7 +10,7 @@ Me chamo Arthur Rodrigues, estou cursando Ciência da Computação na Universida
 | **Linguagens** | Python, JavaScript, HTML5, CSS3 |
 | **Frameworks/APIs** | FastAPI, Django |
 | **Banco de Dados** | MySQL, SQLAlchemy, SQLite |
-| **Ferramentas** | Git, GitHub, Docker |
+| **Ferramentas** | Git, GitHub |
 
 ---
 
