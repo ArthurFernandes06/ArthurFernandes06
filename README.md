@@ -32,11 +32,5 @@ API para organização e monitoramento de cronogramas de aprendizagem.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFernandes06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFernandes06&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
